@@ -1,8 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Jumbotron } from 'react-bootstrap';
 
 function App() {
+  const [count, setCount] = useState(0);
   return (
     <div className="App">
       <header className="App-header">
@@ -10,14 +12,8 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <button onClick={() => setCount(count + 1)}>Click me!</button>
+        <Jumbotron>{count}</Jumbotron>
       </header>
     </div>
   );
