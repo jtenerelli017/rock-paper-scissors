@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.f16b022b.chunk.js",
-    "main.js.map": "/static/js/main.f16b022b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a7dacd03.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a7dacd03.js.map",
-    "static/js/2.8270135f.chunk.js": "/static/js/2.8270135f.chunk.js",
-    "static/js/2.8270135f.chunk.js.map": "/static/js/2.8270135f.chunk.js.map",
-    "static/js/3.020a1d9a.chunk.js": "/static/js/3.020a1d9a.chunk.js",
-    "static/js/3.020a1d9a.chunk.js.map": "/static/js/3.020a1d9a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.8270135f.chunk.js.LICENSE.txt": "/static/js/2.8270135f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/rock-paper-scissors/static/css/main.a617e044.chunk.css",
+    "main.js": "/rock-paper-scissors/static/js/main.f16b022b.chunk.js",
+    "main.js.map": "/rock-paper-scissors/static/js/main.f16b022b.chunk.js.map",
+    "runtime-main.js": "/rock-paper-scissors/static/js/runtime-main.e0abaa35.js",
+    "runtime-main.js.map": "/rock-paper-scissors/static/js/runtime-main.e0abaa35.js.map",
+    "static/js/2.8270135f.chunk.js": "/rock-paper-scissors/static/js/2.8270135f.chunk.js",
+    "static/js/2.8270135f.chunk.js.map": "/rock-paper-scissors/static/js/2.8270135f.chunk.js.map",
+    "static/js/3.020a1d9a.chunk.js": "/rock-paper-scissors/static/js/3.020a1d9a.chunk.js",
+    "static/js/3.020a1d9a.chunk.js.map": "/rock-paper-scissors/static/js/3.020a1d9a.chunk.js.map",
+    "index.html": "/rock-paper-scissors/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rock-paper-scissors/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8270135f.chunk.js.LICENSE.txt": "/rock-paper-scissors/static/js/2.8270135f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rock-paper-scissors/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7dacd03.js",
+    "static/js/runtime-main.e0abaa35.js",
     "static/js/2.8270135f.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.f16b022b.chunk.js"
