@@ -1,7 +1,7 @@
 import './App.css';
 import Button from 'react-bootstrap/Button';
 
-type UserAttack = "rock" | "paper" | "scissors";
+/*type UserAttack = "rock" | "paper" | "scissors";*/
 function App() {
   return (
     <div className="App">
