@@ -20,14 +20,21 @@
 .App-header {
   background-image: url("https://cdn.pixabay.com/photo/2016/02/24/15/08/desk-1220052_960_720.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 25%;
 }
 
 .App-link {
