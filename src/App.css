@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.App-background {
+  width: 100%;
+  position: fixed;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,7 +18,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://cdn.pixabay.com/photo/2016/02/24/15/08/desk-1220052_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +31,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #00c50a;
 }
 
 @keyframes App-logo-spin {
