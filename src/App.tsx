@@ -12,6 +12,7 @@ function App() {
           <Button variant='primary'>Paper!</Button>
           <Button variant='primary'>Scissors!</Button>
         </h2>
+        <p>Learn React</p>
       </header>
     </div>
   );
